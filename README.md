@@ -4,3 +4,4 @@ by University of Illinois at Urbana-Champaign. I have enrolled a lot course in t
 stick courses in this specialization. In my opinion the best way to complete a course is solving exercises.
 I am going to solve all exercises and implement they in JavaScript language and mongodb (if needed).
 I have deployed this repository on Heroku
+[Demo](https://data-mining.herokuapp.com/ "Demo")
