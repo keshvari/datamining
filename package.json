@@ -1,0 +1,32 @@
+{
+  "name": "Data-Mining",
+  "version": "0.0.0",
+  "description": "This repo contain serveral example of data mining task which based on Coursera Data Mining Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanhp/datamining.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "keywords": [
+    "data",
+    "mining",
+    "coursera"
+  ],
+  "author": "Heman Hosseipana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanhp/datamining/issues"
+  },
+  "homepage": "https://github.com/hemanhp/datamining",
+  "dependencies": {
+    "express": "^4.11.2",
+    "serve-static": "^1.8.1"
+  }
+}
